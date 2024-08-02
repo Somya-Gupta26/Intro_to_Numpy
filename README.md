@@ -1,4 +1,3 @@
-#Intro_to_Numpy
 This is a jupyter notebook containing all that you need to know when starting Numpy.
 
 NUMPY stands for Numerical Python.
